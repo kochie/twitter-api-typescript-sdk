@@ -5,6 +5,7 @@
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "^4.17.1",
+    "ts-node-dev": "^2.0.0",
     "twitter-api-sdk": "latest"
   },
   "devDependencies": {
