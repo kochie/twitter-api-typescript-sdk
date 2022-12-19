@@ -4813,7 +4813,10 @@ export type getTweetsComplianceStream = operations['getTweetsComplianceStream']
 export type tweetCountsFullArchiveSearch = operations['tweetCountsFullArchiveSearch']
 export type tweetCountsRecentSearch = operations['tweetCountsRecentSearch']
 export type getTweetsFirehoseStream = operations['getTweetsFirehoseStream']
+<<<<<<< HEAD
 export type getTweetsLabelStream = operations['getTweetsLabelStream']
+=======
+>>>>>>> 6281500690ff2f8ef461dcfdee49a98b125cbc0b
 export type sampleStream = operations['sampleStream']
 export type getTweetsSample10Stream = operations['getTweetsSample10Stream']
 export type tweetsFullarchiveSearch = operations['tweetsFullarchiveSearch']
